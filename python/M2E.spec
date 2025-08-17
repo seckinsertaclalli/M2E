@@ -4,7 +4,7 @@ block_cipher = None
 
 
 a = Analysis(['M2E.py'],
-             pathex=['C:\\Users\\Sertaç\\Desktop\\RD3 to DT1\\M2E Python'],
+             pathex=['C:\\Users\\{{username}}\\Desktop\\RD3 to DT1\\M2E Python'],
              binaries=[],
              datas=[('icon.ico', '.'), ('icon_48.png', '.')],
              hiddenimports=[],
@@ -35,3 +35,4 @@ coll = COLLECT(exe,
                upx=True,
                upx_exclude=[],
                name='M2E')
+
