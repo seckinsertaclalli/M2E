@@ -36,12 +36,12 @@ Hem **Python** hem de **MATLAB** versiyonları mevcuttur.
 ### Python
 ```bash
 cd python
-python Arayuz.py
-
+python Arayuz.py 
+```
 ## ⚙️ Kullanım
 ### Python
 ```bash
 cd python
 python Arayuz.py
-
+```
 
