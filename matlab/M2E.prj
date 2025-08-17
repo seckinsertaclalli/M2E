@@ -1,5 +1,5 @@
 <deployment-project plugin="plugin.ezdeploy" plugin-version="1.0">
-  <configuration file="C:\Users\Sertaç\Desktop\RD3 to DT1\Final Codes\Final_Final\M2E.prj" location="C:\Users\Sertaç\Desktop\RD3 to DT1\Final Codes\Final_Final" name="M2E" target="target.ezdeploy.standalone" target-name="Application Compiler">
+  <configuration file="C:\Users\username\Desktop\RD3 to DT1\Final Codes\Final_Final\M2E.prj" location="C:\Users\username\Desktop\RD3 to DT1\Final Codes\Final_Final" name="M2E" target="target.ezdeploy.standalone" target-name="Application Compiler">
     <param.appname>M2E</param.appname>
     <param.icon>${PROJECT_ROOT}\M2E_resources\icon.ico</param.icon>
     <param.icons>
@@ -94,9 +94,9 @@
       <file>${PROJECT_ROOT}\write_dt1.p</file>
     </fileset.depfun>
     <build-deliverables>
-      <file location="${PROJECT_ROOT}\M2E\for_testing" name="readme.txt" optional="true">C:\Users\Sertaç\Desktop\RD3 to DT1\Final Codes\Final_Final\M2E\for_testing\readme.txt</file>
-      <file location="${PROJECT_ROOT}\M2E\for_testing" name="splash.png" optional="false">C:\Users\Sertaç\Desktop\RD3 to DT1\Final Codes\Final_Final\M2E\for_testing\splash.png</file>
-      <file location="${PROJECT_ROOT}\M2E\for_testing" name="M2E.exe" optional="false">C:\Users\Sertaç\Desktop\RD3 to DT1\Final Codes\Final_Final\M2E\for_testing\M2E.exe</file>
+      <file location="${PROJECT_ROOT}\M2E\for_testing" name="readme.txt" optional="true">C:\Users\username\Desktop\RD3 to DT1\Final Codes\Final_Final\M2E\for_testing\readme.txt</file>
+      <file location="${PROJECT_ROOT}\M2E\for_testing" name="splash.png" optional="false">C:\Users\username\Desktop\RD3 to DT1\Final Codes\Final_Final\M2E\for_testing\splash.png</file>
+      <file location="${PROJECT_ROOT}\M2E\for_testing" name="M2E.exe" optional="false">C:\Users\username\Desktop\RD3 to DT1\Final Codes\Final_Final\M2E\for_testing\M2E.exe</file>
     </build-deliverables>
     <workflow />
     <matlab>
@@ -162,4 +162,5 @@
       <matlab>true</matlab>
     </platform>
   </configuration>
+
 </deployment-project>
